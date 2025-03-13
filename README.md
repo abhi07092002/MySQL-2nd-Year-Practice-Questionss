@@ -1,5 +1,4 @@
 # MySQL-2nd-Year-Practice-Questionss
-
 -- Database creation
 CREATE DATABASE bookstore_management;
 USE bookstore_management;
