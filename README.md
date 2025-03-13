@@ -180,3 +180,6 @@ INSERT INTO sale_items (sale_id, book_id, quantity, price_per_unit) VALUES
 
 -- Question 10: 
 -- Write a query to find all books that have never been sold.
+
+**Note: You have to create and add a file and code the answers of the questions mentioned above in it.
+**
